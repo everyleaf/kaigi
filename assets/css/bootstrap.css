@@ -3144,27 +3144,27 @@ input[type="button"].btn-block {
 .btn-primary {
   color: white;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-  background-color: #fe618b;
-  background-image: -moz-linear-gradient(top, #fe6191, #fe6184);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fe6191), to(#fe6184));
-  background-image: -webkit-linear-gradient(top, #fe6191, #fe6184);
-  background-image: -o-linear-gradient(top, #fe6191, #fe6184);
-  background-image: linear-gradient(to bottom, #fe6191, #fe6184);
+  background-color: #c72434;
+  background-image: -moz-linear-gradient(top, #c7243a, #c7242c);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#c7243a), to(#c7242c));
+  background-image: -webkit-linear-gradient(top, #c7243a, #c7242c);
+  background-image: -o-linear-gradient(top, #c7243a, #c7242c);
+  background-image: linear-gradient(to bottom, #c7243a, #c7242c);
   background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFE6191', endColorstr='#FFFE6184', GradientType=0);
-  border-color: #fe6184 #fe6184 #fe1549;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFC7243A', endColorstr='#FFC7242C', GradientType=0);
+  border-color: #c7242c #c7242c #86181e;
   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
-  *background-color: #fe6184;
+  *background-color: #c7242c;
   /* Darken IE7 buttons by default so they stand out more given they won't have borders */
   filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary.disabled, .btn-primary[disabled] {
   color: white;
-  background-color: #fe6184;
-  *background-color: #fe4870;
+  background-color: #c7242c;
+  *background-color: #b12028;
 }
 .btn-primary:active, .btn-primary.active {
-  background-color: #fe2e5c \9;
+  background-color: #9c1c23 \9;
 }
 
 .btn-warning {
@@ -3505,7 +3505,7 @@ input[type="submit"].btn.btn-mini {
   background-color: #e1f0a2;
 }
 .btn-group.open .btn-primary.dropdown-toggle {
-  background-color: #fe6184;
+  background-color: #c7242c;
 }
 .btn-group.open .btn-warning.dropdown-toggle {
   background-color: #f89406;
@@ -5832,6 +5832,7 @@ a.label:hover, a.label:focus, a.badge:hover, a.badge:focus {
 #eyecatch h1 {
   font-size: 100px;
   line-height: 1.8;
+  color: #c7243a;
 }
 #eyecatch ul.inline {
   margin: 20px 0 0;
@@ -5847,7 +5848,7 @@ a.label:hover, a.label:focus, a.badge:hover, a.badge:focus {
   padding: 0 0 30px;
 }
 .announcement h2 {
-  color: #fe6191;
+  color: #c7243a;
   margin: 20px 0;
 }
 .announcement p {
