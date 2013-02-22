@@ -5859,6 +5859,19 @@ a.label:hover, a.label:focus, a.badge:hover, a.badge:focus {
 }
 
 .row {
-  margin: 50px 0;
+  margin: 50px 0 0;
+  line-height: 30px;
+}
+.row div {
+  margin-bottom: 50px;
+}
+.row h3 {
+  font-size: 20px;
+}
+.row ul.invited {
+  font-size: 18px;
+}
+.row ul.about {
+  font-size: 16px;
   line-height: 30px;
 }
