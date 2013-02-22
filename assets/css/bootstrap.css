@@ -5843,13 +5843,14 @@ a.label:hover, a.label:focus, a.badge:hover, a.badge:focus {
   background-position: right bottom;
 }
 
+h2 {
+  color: #b00025;
+  margin: 20px 0;
+}
+
 .announcement {
   text-align: center;
   padding: 0 0 30px;
-}
-.announcement h2 {
-  color: #b00025;
-  margin: 20px 0;
 }
 .announcement p {
   font-size: 18px;
@@ -5859,7 +5860,6 @@ a.label:hover, a.label:focus, a.badge:hover, a.badge:focus {
 }
 
 .row {
-  margin: 50px 0 0;
   line-height: 30px;
 }
 .row div {
