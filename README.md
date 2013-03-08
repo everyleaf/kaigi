@@ -19,5 +19,5 @@ Teaser site for every.rb
 
 * compile sass with `rake build`
 * you can run `rake watch` to auto compile sass
-** sass directory is lib/
-** the rake task compiles lib/*.sass to assets/css/*.css 
+    * sass directory is lib/
+    * the rake task compiles lib/*.sass to assets/css/*.css 
