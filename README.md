@@ -12,7 +12,7 @@ Teaser site for every.rb
 ## setup
 
 * clone this repo
-* create gemset (if neccessary)
+* create gemset (if necessary)
 * `bundle install`
 
 ## development
